@@ -4,9 +4,7 @@
 > 같은 열정으로 모여 하나의 꿈을 씁니다.  
 > 인디에서 시작해, 시대를 뒤흔드는 게임까지.
 
-<img width="1060" height="544" alt="image" src="https://github.com/user-attachments/assets/5b5480ee-dd21-459b-a1c0-22fbca7b26d4" />
-작가 : 김태완
-
+<img width="1200" height="453" alt="PKP" src="https://github.com/user-attachments/assets/da7b4361-ddc5-4ad5-a37a-253d9ba9428b" />
 
 ---
 
