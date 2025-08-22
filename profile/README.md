@@ -3,8 +3,8 @@
 > 강릉원주대학교에서 만난 세 개발자,  
 > 같은 열정으로 모여 하나의 꿈을 씁니다.  
 > 인디에서 시작해, 시대를 뒤흔드는 게임까지.
-
-<img width="1060" height="544" alt="image" src="https://github.com/user-attachments/assets/5b5480ee-dd21-459b-a1c0-22fbca7b26d4" />
+> 
+<img width="677" height="369" alt="팀 배너1" src="https://github.com/user-attachments/assets/4f176a3d-e1fb-4c57-abab-00f8252163b1" />
 작가 : 김태완
 
 
